@@ -1,4 +1,4 @@
- 👋 Hi, I’m @seok-pyo
+ 👋 Hi, I’m seokpyo, Hong.
  
  👀 I’m interested in Web development and graphic design especially Type.
  
