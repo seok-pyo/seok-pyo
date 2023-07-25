@@ -1,4 +1,4 @@
- 👋 Hi, I’m seokpyo, Hong.
+ 👋 Hi, I’m seokpyo.
  
  👀 I’m interested in Web development and graphic design especially Type.
  
@@ -11,6 +11,7 @@
    
     📫 hongseokpyou@gmail.com
  </details>
+
 
 <!---
 seok-pyo/seok-pyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
