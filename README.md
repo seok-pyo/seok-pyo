@@ -1,4 +1,4 @@
-🏁 우테코 6기 프리코스 참여 중 ... <a target="_blank" href="https://pyoseok.site/">소개 웹페이지 </a>
+🏁 우테코 6기 프리코스 참여 중 ...
 <br><br>
 🏠 몰입을 기록하는 방법 ... <a target="_blank" href="https://time-stamp.neocities.org/">타임스탬프 웹사이트</a>
 <br><br>
