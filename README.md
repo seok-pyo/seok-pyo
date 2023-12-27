@@ -1,4 +1,4 @@
-🏁 <a target="_blank" href="https://pyoseok.site/">목표</a>를 향해!
+🏁 목표를 향해?
 <br><br>
 🏠 몰입을 기록하는 방법 ... <a target="_blank" href="https://time-stamp.neocities.org/">타임스탬프 웹사이트</a>
 <br><br>
